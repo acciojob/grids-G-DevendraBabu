@@ -1,2 +1,61 @@
-
+.container
+{
+ 
+    /* background-color: rgb(149, 119, 75); */
+    /* display: grid; */
+    padding:5px;
+    background-color: rgb(238, 203, 156);
+    /* padding: 5px solid rgba(245, 192, 229, 0.884); */
+    border: 5px solid rgb(136, 207, 29);
+    /* grid-row-gap:10px;
+    grid-column-gap:10px; */
+    /* column-gap: 15px; */
+    /* row-gap: 15px; */
+    /* margin: 4px solid rgb(249, 196, 217); */
+    
+    
+}
+.rc11
+{
+    background-color: rgb(5, 100, 80);
+    height:30%; border: 2px dotted black;
+    padding: 10px;
+    
+}
+.rc12
+{
+    padding: 10px;
+    background-color: rgb(240, 184, 213);
+    height:30%; border: 2px dotted black;
+    border: 2px dotted black;
+}
+.rc21
+{
+    padding: 10px;
+    background-color: orangered;
+    height:30%; border: 2px dotted black;
+}
+.rc22
+{
+    padding: 10px;
+    height:30%;
+    background-color: aqua; border: 2px dotted black;
+}
+.rc31
+{
+    padding: 10px;
+    height:30%;
+    background-color:rgb(231, 130, 234); border: 2px dotted black;
+}
+.rc32
+{
+    padding: 10px;
+    height:30%;
+    background-color:rgba(59, 88, 17, 0.622) ; border: 2px dotted black;
+}
+.de
+{
+   
+    background-color: black; border: 2px dotted black;
+}
 /* Your CSS Code here. */
